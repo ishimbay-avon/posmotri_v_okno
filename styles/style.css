@@ -17,8 +17,7 @@ html {
   font-size: 18px;
   background-color: #1b1919;
   display: flex;
-  margin-top: 133px;
-  align-items: start;
+  align-items: center;
   justify-content: center;
 }
 
